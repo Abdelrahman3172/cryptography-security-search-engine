@@ -1,0 +1,11 @@
+arxiv
+PyMuPDF
+pandas
+requests
+certifi
+rank-bm25
+nltk
+numpy
+sentence-transformers
+gradio
+jupyter
